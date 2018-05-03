@@ -1,6 +1,5 @@
 # angrist
 Angrist Coder Interface
 
-Some random edit
+Read the documentation: ANGRIST_1-21-en.docx for reference.
 
-Some other edit to merge back to the master
