@@ -1,0 +1,1647 @@
+[Issuelist]
+List of Issues
+-
+-
+0100:welfare - welfare in general or multiple specific issues
+0101:welfare - health care, prevention, hospitals, home care, health insurance
+0102:welfare - retirement, retirement age/provisions, age, benefits, provisions, pensions
+0103:welfare - unemployment, unemp. benefits, activation, workless, employment rate
+0104:welfare - poverty, social benefits, social aid
+0105:welfare - family, children, nursery, maternity, youth
+0106:welfare - consumer protection, consumer rights, compensations, patient rights
+0107:welfare - redistribution, social equality, Klassenkampf, income gap
+0108:welfare - disabled care, disability insurance, support for invalids
+0109:welfare - housing benefits, housing subsidies, rent levels, social housing
+0199:welfare - other specific issue
+0200:economic - economic liberalism in general / regulation of the economy, class strugle  or multiple specific issues
+0202:economic - labour market: wage, bonus, payment
+0203:economic - labour market: working conditions, working hours, security, protection
+0204:economic - labour market: employment, unemployment, mass redundancy, dismissal
+0205:economic - free trade policy/anti protectionism, import, export, schutzzoll
+0206:economic - agriculture deregulation, production limits, subsidies, subventionen, pricing
+0207:economic - financial market deregulation, capital control, banking system, stock market
+0208:economic - private property rights/free enterprise capitalism
+0209:economic - competition policy, cartels, monopoly, price fixing
+0210:economic - domestic markets, standards, norma, practices, controls
+0211:economic - liberalization of public sector, privatization
+0212:economic - demand side macroeconomic policies
+0213:economic - corporatism, strikes, strike right, bargaining, negotiations, agreements
+0214:economic - economic promotion, wirtschaftsförderung
+0299:economic - other specific issue
+0300:budget - taxes in general or multiple specific issues
+0301:budget - budget in general discipline, spending review, deficit, tax competition
+0302:budget - indirect taxation, mehrwertsteuer, mwst
+0303:budget - direct taxation, income, property, inheritance
+0304:budget - direct taxation for rich/business, degressive taxes, corporate taxes, reichensteuer
+0399:budget - other specific issue
+0400:culture - cultural liberalism or preservation of culture  in general or multiple specific issues
+0401:culture - international cooperation or contestation, international courts, conventions, multilateralism, völkerrecht
+0402:culture - development aid, international solidarity, support of liberation movements
+0403:culture - peace, war, civilian national service, crisis deescalation, peaceful intervention, military intervention
+0404:culture - disarmament, arms race, nuclear weapon programs, weapons of mass destruction, arms deals
+0405:culture - nationalism, patriotism, protectionism, multiculturalism
+0406:culture - religious tolerance, religious conflict, freedom of religion, state and church, religious peace, education, promotion
+0407:culture - gender equality, discrimination
+0408:culture - human rights, convention, genocides, international court
+0409:culture - gay rights, transgender, bisexual, lesbian, civil union, marriage, discrimination
+0410:culture - abortion, pro life, pro choice, ban
+0411:culture - drug policy, heroin dispensation, methadone, cannabis, consumption, trade, possession
+0412:culture - democratization, civil rights, freedom of speech, press freedom
+0413:culture - data privacy, management of personal data
+0414:culture - protection, promotion, or preservation of traditions, customs, folklore, moral, norms, values
+0499:culture - other specific issue
+0500:europe - europe in general, acession to EU, exit from EU or multiple specific issues
+0501:globalization - globalization, denationalization in general
+0502:globalization - National souvereignty
+0503:europe - judiciary cooperation, common policies, schengen
+0504:europe - economic boundaries, market liberalization, free trade
+0505:europe - monetary union, Euro, Eurobonds, stability, ESM, measures a to stabilize the EURO, rescue package for Greece
+0506:europe - market and fiscal and environmental regulation, social protection, sharing, redistribution
+0507:europe - democracy, participation, european demoi, european parliament
+0508:europe - free movement of persons, workers, workforce, personenfreizügigkeit 
+0509:europe - enlargement, boundary extension, new states, turkey, exclusion of states
+0599:europe - other specific issue europe/globalization
+0600:education/leisure - education in general or multiple specific issues
+0601:education/leisure - primary and secondary education, basic education, schools, literacy, analphabetism
+0602:education/leisure - vocational and professional education, job training, berufslehre
+0603:education/leisure - tertiary or higher education, universities, polytechnics, students, campus
+0604:education/leisure - public research, funding
+0605:education/leisure - arts, humanities, literature, culture, theater, museums, cultural institutions
+0606:education/leisure - sport, recreation, leisure activities
+0699:education/leisure - other specific issue
+0700:immigration - immigration in general or multiple specific issues
+0701:immigration - islam, islamization, moslem, minarets, headscarfs, burka
+0702:immigration - administration, housing and rights of foreigners within country
+0703:immigration - asylum seekers, refugees
+0704:immigration - racism, hostile feelings toward immigrants
+0799:immigration - other specific issue
+0800:army - army, military in general or multiple specific issues
+0801:army - military expenditure, armament, infrastructure, spending
+0802:army - military treaty obligations, NATO, multilateral operations
+0803:army - military manpower, number of soldiers, troops, size of army
+0899:army - other specific issue
+0900:security - security in general or multiple specific issues
+0901:security - corruption, clientelism, bribery
+0902:security - black economy, black market, fraud, tax evasion
+0903:security - enforcement of police, manpower, number of policemen, infrastructure, equipment, competences
+0904:security - courts, judicary autonomy, third estate
+0905:security - terrorism, fundamentalism, financing, support, djihad, attacks
+0906:security - crime rate, criminality, delinquency, offenders, jurisdiction, sexual crimes, robbery, murder
+0907:security - youth delinquency, youth jurisdiction, adolescents, young, children
+0999:security - other specific issue
+1000:ecology - ecology in general or multiple specific issues
+1001:ecology - preservation of natural resources, parks, reservats, biodiversity, protection of animals
+1002:ecology - environmental pollution, poisoning, emissions, noise, water, air, light
+1003:ecology - nuclear or atomic energy, security, radioactive pollution, power plants, AKW
+1004:ecology - genetic engineering, cloning, GMO, monsanto, agricultural, animals, plants
+1005:ecology - climate change, global warming, ozone layer, carbon dioxide emissions
+1006:ecology - renewable energy sources, fossil fuel, sustainable power, biodiesel
+1099:ecology - other specific issue
+1100:institutional reforms - institutional reforms in general or multiple specific issues
+1101:institutional reforms - federalism, decentralization, centralism, power structure, level of decision-making
+1102:institutional reforms - efficiency and transparency of governmental and administrative procedures
+1103:institutional reforms - separation of powers, interaction or independence of estates, legislative, executive, judicative
+1104:institutional reforms - participation of cititzens, referendum, direct democracy, public vote, souvereignty of people
+1105:institutional reforms - mobilization of voters, voter share, election turnout, mandatory participation, active citizens
+1106:institutional reforms - secession/independence (general)
+1107:institutional reforms - secession/independence (Catalonia)
+1108:institutional reforms - secession/independence (other regions)
+1199:institutional reforms - other specific issue
+1200:infrastructure - infrastructural investments in general or multiple specific issues
+1201:infrastructure - private transport, roads, streets, highways, parking, autobahn
+1202:infrastructure - public transport, bus, train, steet cars, ÖV
+1203:infrastructure - airports, air traffic, noise, control, guidance
+1204:infrastructure - energy distribution, security, power grids, power plants, electricity, gas, fuel
+1205:infrastructure - communication infrastructure, terrestrial signals, cable, satellite, media networks, cell phones, antennae, radio, internet, online
+1206:infrastructure - security, driver's licences, limits, traffic controls, emergency management, accidents
+1207:infrastructure - space, spatial planning, zoning, urban, land use, raumplanung
+1299:infrastructure - other specific issue
+2100:elections - elections/votes in general or multiple specific issues
+2101:elections - game framing, horse race, leading candidates, winning/losing
+2102:elections - possible coalitions, negotiations
+2103:elections - promises, planned programs, prospect, goals
+2104:elections - candidates/parties, feature, personal information, private, background
+2105:elections - election day, election as event
+2106:elections - strategic considerations, election/vote strategy, campaign planning
+2107:elections - European election, Europawahl
+2108:elections - parliamentary vote
+2109:elections - parliamentary debate
+2199:elections - other statements about elections/votes
+2200:events - events in general
+2201:events - specific desaster, accident, natural catastrophe
+2202:events - specific personal event, childbirth, wedding, death of a person
+2203:events - specific war, conflict, civil war, military operations, strike, terrorist attack
+2204:events - specific crime, felony, victim, criminal, offender
+2299:events - other specific events
+9998:other - The system or structure of society in general
+9999:other - completely different issue. Not applicable to any category on this list
+
+
+[0100]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a larger welfare state / For more welfare state spending
+3:status quo (against more welfare)
+4:status quo (against less welfare)
+5:In favour of a smaller welfare state / For less welfare state spending
+6:neutral/ambivalent
+
+
+[0101]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more health care spending
+3:status quo (against more welfare)
+4:status quo (against less welfare)
+5:In favour of less health care spending
+6:neutral/ambivalent
+
+
+[0102]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of lower age / higher provisions
+3:status quo (against more welfare)
+4:status quo (against less welfare)
+5:In favour of higher age / lower provisions
+6:neutral/ambivalent
+
+
+[0103]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of higher unemployment support
+3:status quo (against more welfare)
+4:status quo (against less welfare)
+5:In favour of lower unemployment support
+6:neutral/ambivalent
+
+
+[0104]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more support for poor
+3:status quo (against more welfare)
+4:status quo (against less welfare)
+5:In favour of less support for poor
+6:neutral/ambivalent
+
+
+[0105]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more support for families/children
+3:status quo (against more welfare)
+4:status quo (against less welfare)
+5:In favour of less support for families/children
+6:neutral/ambivalent
+
+
+[0106]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of stronger consumer rights
+3:status quo (against more welfare)
+4:status quo (against less welfare)
+5:In favour of less strict consumer rights
+6:neutral/ambivalent
+
+
+[0107]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more redistribution
+3:status quo (against more welfare)
+4:status quo (against less welfare)
+5:In favour of less redistribution
+6:neutral/ambivalent
+
+
+[0108]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more disabled support
+3:status quo (against more welfare)
+4:status quo (against less welfare)
+5:In favour of less disabled support
+6:neutral/ambivalent
+
+
+[0109]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more social housing
+3:status quo (against more welfare)
+4:status quo (against less welfare)
+5:In favour of less social housing
+6:neutral/ambivalent
+
+
+[0199]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a larger welfare state / In favor of more welfare state spending for this specific issue
+3:status quo (against more welfare)
+4:status quo (against less welfare)
+5:In favour of a smaller welfare state / In favor of less welfare state spending for this specific issue
+6:neutral/ambivalent
+
+
+[0200]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of more economic liberalism / a more capitalist society / a less socialist society
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:in favour of more state intervention in the economy / a less capitalist society / a more socialist society
+6:neutral/ambivalent
+
+
+[0202]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of less labour market regulation
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:In favour of more labour market regulation
+6:neutral/ambivalent
+
+
+[0203]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of less labour market regulation
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:In favour of more labour market regulation
+6:neutral/ambivalent
+
+
+[0204]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of less labour market regulation
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:In favour of more labour market regulation
+6:neutral/ambivalent
+
+
+[0205]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more free trade policy / In favour of less protectionism
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:In favour of more protectionism
+6:neutral/ambivalent
+
+
+[0206]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more market in the agriculture sector
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:In favour of more subsidies / protectionism in the agriculture sector
+6:neutral/ambivalent
+
+
+[0207]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of less regulation in the financial market
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:in favour of more regulation in the financial market
+6:neutral/ambivalent
+
+
+[0208]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more free enterprise capitalism / In favour of enhancing the property right of citizens
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:In favour of less free enterprise capitalism / In favour of restricting the property right of citizens
+6:neutral/ambivalent
+
+
+[0209]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more economic competition, less price fixing
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:In favour of less economic competition, more price fixing
+6:neutral/ambivalent
+
+
+[0210]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of less economic regulation / regulation of domestic markets
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:In favour of more economic regulation / regulation of domestic markets
+6:neutral/ambivalent
+
+
+[0211]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more privatization/liberalization of the public sector
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:In favour of more nationalization of the private sector
+6:neutral/ambivalent
+
+
+[0212]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of less anti-cyclical economic policy
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:In favour of more anti-cyclical economic policy
+6:neutral/ambivalent
+
+
+[0213]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of less collective bargaining, less freedom of strike
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:In favour of more collective bargaining, more freedom of strike
+6:neutral/ambivalent
+
+
+[0214]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more promotion of industries / promotion of tourism
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:In favour of less promotion of industries / promotion of tourism
+6:neutral/ambivalent
+
+
+[0299]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of more economic liberalism
+3:status quo (against more liberalism)
+4:status quo (against more intervention)
+5:in favour of more state intervention in the economy
+6:neutral/ambivalent
+
+
+[0300]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of a reduction of taxation (general)
+3:status quo (against reduction of taxation/spending)
+4:status quo (against increase of taxation/spending)
+5:in favour of an increase of taxation (general)
+6:neutral/ambivalent
+
+
+[0301]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of  less state spending/ less deficit spending / more budget discipline
+3:status quo (against reduction of taxation/spending)
+4:status quo (against increase of taxation/spending)
+5:in favour of more state spending/ more deficit spending / less budget discipline
+6:neutral/ambivalent
+
+
+[0302]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of a reduction of indirect taxation (value added taxes)
+3:status quo (against reduction of taxation/spending)
+4:status quo (against increase of taxation/spending)
+5:in favour of an increase of indirect taxation (value added taxes)
+6:neutral/ambivalent
+
+
+[0303]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of a reduction of direct taxation (general)
+3:status quo (against reduction of taxation/spending)
+4:status quo (against increase of taxation/spending)
+5:in favour of an increase of direct taxation (general)
+6:neutral/ambivalent
+
+
+[0304]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of a reduction of direct taxation (the rich and business)
+3:status quo (against reduction of taxation/spending)
+4:status quo (against increase of taxation/spending)
+5:in favour of an increase of direct taxation (the rich and business)
+6:neutral/ambivalent
+
+
+[0399]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of less state spending / less taxes / less deficit
+3:status quo (against reduction of taxation/spending)
+4:status quo (against increase of taxation/spending)
+5:in favour of more state spending / more taxes / more deficit
+6:neutral/ambivalent
+
+
+[0400]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of more cultural liberalism (e.g. a more open, plural, multicultural, modern society)
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:in favour of less cultural liberalism in (e.g. a less open, plural, multicultural and more traditional society)
+6:neutral/ambivalent
+
+
+[0401]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more multilateralism
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of less multilateralism
+6:neutral/ambivalent
+
+
+[0402]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more development aid/international solidarity
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of less development aid/international solidarity
+6:neutral/ambivalent
+
+
+[0403]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more peace / peaceful solving of crises
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of less peace / peaceful solving of crises
+6:neutral/ambivalent
+
+
+[0404]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of stricter control or ban of illegal or legal nuclear and conventional arms deals
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of less stricter control or ban of illegal or legal nuclear and conventional arms deals
+6:neutral/ambivalent
+
+
+[0405]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of less nationalism/patriotism
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of more nationalism/patriotism
+6:neutral/ambivalent
+
+
+[0406]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more protection of religious minorities/freedom of religion
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of more preferential treatment of the majoritarian religion; In favour of less protection of religious minorities/freedom of religion
+6:neutral/ambivalent
+
+
+[0407]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more gender equality
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of less gender equality
+6:neutral/ambivalent
+
+
+[0408]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more minority rights / human rights in general
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of less minority rights / human rights in general
+6:neutral/ambivalent
+
+
+[0409]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more equality of treatment of gay people
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of less equality of treatment of gay people
+6:neutral/ambivalent
+
+
+[0410]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a more liberal abortion legislation
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of a less liberal abortion legislation
+6:neutral/ambivalent
+
+
+[0411]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a more liberal drug policy
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of a less liberal drug policy
+6:neutral/ambivalent
+
+
+[0412]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more freedom of speech and opinion
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of less freedom of speech and opinion
+6:neutral/ambivalent
+
+
+[0413]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more data privacy protection
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of less data privacy protection / more power for the intelligence service
+6:neutral/ambivalent
+
+
+[0414]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of less preservation of traditions and traditional values
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:In favour of more preservation of traditions and traditional values
+6:neutral/ambivalent
+
+
+[0499]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of more cultural liberalism (e.g. a more open, plural, multicultural, modern society)
+3:staus quo (against more cultural liberalism)
+4:status quo (against less cultural liberalism)
+5:in favour of less cultural liberalism in (e.g. a less open, plural, multicultural and more traditional society)
+6:neutral/ambivalent
+
+
+[0500]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more EU-Integration in general / In favour of EU-accession
+3:status quo (against more integration/globalization)
+4:status quo (against less integration/globalization)
+5:In favour of less EU-Integration in general / In favour of EU exit
+6:neutral/ambivalent
+
+
+[0501]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more globalization in general
+3:status quo (against more integration/globalization)
+4:status quo (against less integration/globalization)
+5:In favour of less globalization in general
+6:neutral/ambivalent
+
+
+[0502]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more national souvereignty, competences of nation states
+3:status quo (against more souvereignty of the nation state)
+4:status quo (against less souvereignty of the nation state)
+5:In favour of less national souvereignty, competences of nation states
+6:neutral/ambivalent
+
+
+[0503]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more security competences for the EU
+3:status quo (against more integration/globalization)
+4:status quo (against less integration/globalization)
+5:In favour of less EU security competences / more competences for the individual countries
+6:neutral/ambivalent
+
+
+[0504]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of less national economic boundaries
+3:status quo (against more integration/globalization)
+4:status quo (against less integration/globalization)
+5:In favour of more national economic boundaries (protectionism)
+6:neutral/ambivalent
+
+
+[0505]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of strengthening the common currency
+3:status quo (against more integration/globalization)
+4:status quo (against less integration/globalization)
+5:In favour of a less integrative monetary union
+6:neutral/ambivalent
+
+
+[0506]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more European market, fiscal and environmental regulations
+3:status quo (against more integration/globalization)
+4:status quo (against less integration/globalization)
+5:In favour of less European market, fiscal and environmental regulations
+6:neutral/ambivalent
+
+
+[0507]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of an extension of public participation in the EU
+3:status quo (against more integration/globalization)
+4:status quo (against less integration/globalization)
+5:In favour of a reduction of public participation in the EU
+6:neutral/ambivalent
+
+
+[0508]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favor of less national boundaries concerning the free movement of persons
+3:status quo (against more integration/globalization)
+4:status quo (against less integration/globalization)
+5:In favor of more national boundaries concerning the free movement of persons
+6:neutral/ambivalent
+
+
+[0509]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of European boundary extension
+3:status quo (against more integration/globalization)
+4:status quo (against less integration/globalization)
+5:In favour of European boundary limitation (e.g. exclusion of member states)
+6:neutral/ambivalent
+
+
+[0599]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more EU-Integration
+3:status quo (against more integration/globalization)
+4:status quo (against less integration/globalization)
+5:In favour of less EU-Integration
+6:neutral/ambivalent
+
+
+[0600]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more funding and promotion of education by the state
+3:status quo (against more funding)
+4:status quo (against less funding)
+5:In favour of less funding and promotion of education by the state; In favour of privately financed education
+6:neutral/ambivalent
+
+
+[0601]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more funding and promotion  of basic education by the state
+3:status quo (against more funding)
+4:status quo (against less funding)
+5:In favour of less funding and promotion of basic education by the state; In favour of a privately financed basic education
+6:neutral/ambivalent
+
+
+[0602]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more funding and promotion of further education by the state
+3:status quo (against more funding)
+4:status quo (against less funding)
+5:In favour of less funding and promotion for further education by the state; In favour of more privately financed further education
+6:neutral/ambivalent
+
+
+[0603]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more funding and promotion of the quality of tertiary education by the state
+3:status quo (against more funding)
+4:status quo (against less funding)
+5:In favour of less funding and promotion of basic education; in favour of more privately financed tertiary education
+6:neutral/ambivalent
+
+
+[0604]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more funding and promotion of the quality of research by the state
+3:status quo (against more funding)
+4:status quo (against less funding)
+5:In favour of less funding and promotion for research; in favour of more privately financed research
+6:neutral/ambivalent
+
+
+[0605]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more funding and promotion of art and culture by the state
+3:status quo (against more funding)
+4:status quo (against less funding)
+5:In favour of less funding and promotion of art and culture by the state; In favour of more private financed art and culture
+6:neutral/ambivalent
+
+
+[0606]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more funding and promotion of sport/recreation by the state
+3:status quo (against more funding)
+4:status quo (against less funding)
+5:In favour of less funding and promotion of sport/recreation by the state
+6:neutral/ambivalent
+
+
+[0699]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more funding and promotion of culture by the state
+3:status quo (against more funding)
+4:status quo (against less funding)
+5:In favour of less funding and promotion of culture by the state; In favour of privately financed culture
+6:neutral/ambivalent
+
+
+[0700]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a more restrictive immigration/foreigner policy
+3:status quo (against more restrictive immigration policy)
+4:status quo (against more liberal immigration policy)
+5:In favour of a less restrictive immigration/foreigner policy
+6:neutral/ambivalent
+
+
+[0701]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of more restrictive integration and immigration regarding Muslims
+3:status quo (against more restrictive immigration policy)
+4:status quo (against more liberal immigration policy)
+5:in favour of less restrictive integration and immigration regarding Muslims
+6:neutral/ambivalent
+
+
+[0702]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of more restrictive policies for foreigners in the country
+3:status quo (against more restrictive immigration policy)
+4:status quo (against more liberal immigration policy)
+5:in favour of less restrictive policies for foreigners in the country
+6:neutral/ambivalent
+
+
+[0703]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more restrictive policies for asylum seekers
+3:status quo (against more restrictive immigration policy)
+4:status quo (against more liberal immigration policy)
+5:In favour of less restrictive policies for asylum seekers
+6:neutral/ambivalent
+
+
+[0704]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of the abolition of existing laws against racism or intolerant behaviour; explicit racist statements
+3:status quo (against more restrictive immigration policy)
+4:status quo (against more liberal immigration policy)
+5:In favour of new laws against racism or intolerant behaviour; in favour of a less racist discourse
+6:neutral/ambivalent
+
+
+[0799]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a more restrictive immigration/foreigner policy
+3:status quo (against more restrictive immigration policy)
+4:status quo (against more liberal immigration policy)
+5:In favour of a less restrictive immigration/foreigner policy
+6:neutral/ambivalent
+
+
+[0800]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a stronger army
+3:status quo (against stronger army)
+4:status quo (against weaker army)
+5:In favour of a weaker army
+6:neutral/ambivalent
+
+
+[0801]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more defence spending
+3:status quo (against stronger army)
+4:status quo (against weaker army)
+5:In favour of less defence spending
+6:neutral/ambivalent
+
+
+[0802]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of new security-political treaties/ deepening of NATO/ increases of NATO-military operations
+3:status quo (against stronger army)
+4:status quo (against weaker army)
+5:In favour of  security-political treaties exit/ of less NATO-military operations
+6:neutral/ambivalent
+
+
+[0803]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of higher troop numbers / introduction of universal conscription
+3:status quo (against stronger army)
+4:status quo (against weaker army)
+5:In favour of lower troop numbers / abandonment of universal conscription
+6:neutral/ambivalent
+
+
+[0899]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a stronger army
+3:status quo (against stronger army)
+4:status quo (against weaker army)
+5:In favour of a weaker army
+6:neutral/ambivalent
+
+
+[0900]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a more restrictive security policy
+3:status quo (against more restrictive security policy)
+4:status quo (against more liberal security policy)
+5:In favour of a less restrictive security policy
+6:neutral/ambivalent
+
+
+[0901]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a stronger struggle against corruption
+3:status quo (against more restrictive security policy)
+4:status quo (against more liberal security policy)
+5:In favour of weaker laws against corruption
+6:neutral/ambivalent
+
+
+[0902]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a stronger struggle against business crime/tax evasion
+3:status quo (against more restrictive security policy)
+4:status quo (against more liberal security policy)
+5:In favour of weaker laws against business crime/tax evasion
+6:neutral/ambivalent
+
+
+[0903]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of strengthening of manpower, equipment and competences of the police
+3:status quo (against more restrictive security policy)
+4:status quo (against more liberal security policy)
+5:in favour of lesser manpower, equipment and competences of the police
+6:neutral/ambivalent
+
+
+[0904]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of strengthening of competences of the courts, against manipulation of courts by politicians (e.g. parliament and executive).
+3:status quo (against more restrictive security policy)
+4:status quo (against more liberal security policy)
+5:In favour of less competences of the courts/ of more influence on the courts by politicians (e.g. parliament and executive).
+6:neutral/ambivalent
+
+
+[0905]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favour of stronger laws against fundamentalism/terrorism (if related to crime, else: Anti-Islam: 701), financing of terrorism, and terrorism in general)
+3:status quo (against more restrictive security policy)
+4:status quo (against more liberal security policy)
+5:in favour of weaker laws against fundamentalism/terrorism (if related to crime, else: Islam), financing of terrorism, and terrorism in general)
+6:neutral/ambivalent
+
+
+[0906]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:in favor of stronger laws and strict jurisdiction for any crime
+3:status quo (against more restrictive security policy)
+4:status quo (against more liberal security policy)
+5:in favor of weaker laws and jurisdiction for any crime
+6:neutral/ambivalent
+
+
+[0907]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a more restrictive security policy for youth delinquencies
+3:status quo (against more restrictive security policy)
+4:status quo (against more liberal security policy)
+5:In favour of a less restrictive security policy for youth delinquencies
+6:neutral/ambivalent
+
+
+[0999]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a more restrictive security policy
+3:status quo (against more restrictive security policy)
+4:status quo (against more liberal security policy)
+5:In favour of a less restrictive security policy
+6:neutral/ambivalent
+
+
+[1000]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a more ecological policy
+3:status quo (against more ecological policy)
+4:status quo (against less ecological policy)
+5:In favour of a less ecological policy
+6:neutral/ambivalent
+
+
+[1001]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more effort for biodiversity, national parks etc.
+3:status quo (against more ecological policy)
+4:status quo (against less ecological policy)
+5:In favour of less effort for biodiversity, national parks etc.
+6:neutral/ambivalent
+
+
+[1002]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour more measures against noise exposure, water and air pollution etc.
+3:status quo (against more ecological policy)
+4:status quo (against less ecological policy)
+5:In favour less measures against noise exposure, water and air pollution etc.
+6:neutral/ambivalent
+
+
+[1003]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of closure of atomic power plaints / less atomic energy
+3:status quo (against more ecological policy)
+4:status quo (against less ecological policy)
+5:In favour of new atomic power plaints / more atomic energy
+6:neutral/ambivalent
+
+
+[1004]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more restrictive anti genetic engineering/cloning policy
+3:status quo (against more ecological policy)
+4:status quo (against less ecological policy)
+5:In favour of less restrictive anti genetic engineering/cloning policy
+6:neutral/ambivalent
+
+
+[1005]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more forceful anti climate change policies
+3:status quo (against more ecological policy)
+4:status quo (against less ecological policy)
+5:In favour of less forceful anti climate change policies
+6:neutral/ambivalent
+
+
+[1006]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more sustainability and renewable energy sources, less fossil fuel
+3:status quo (against more ecological policy)
+4:status quo (against less ecological policy)
+5:In favour of less renewable energy sources, more fossil fuel
+6:neutral/ambivalent
+
+
+[1099]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a more ecological policy
+3:status quo (against more ecological policy)
+4:status quo (against less ecological policy)
+5:In favour of a less ecological policy
+6:neutral/ambivalent
+
+
+[1100]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of institutional reforms in general
+3:status quo (against institutional reforms)
+4:neutral/ambivalent
+
+
+[1101]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more federalism
+3:status quo (against more federalism)
+4:status quo (against more centralism)
+5:In favour of more centralism
+6:neutral/ambivalent
+
+
+[1102]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more efficiency/transparency, less red tape
+3:status quo (against more efficiency/transparency)
+4:status quo (against less lean administration)
+5:In favour of a less lean and output oriented administration
+6:neutral/ambivalent
+
+
+[1103]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of a better control of the executive by the legislative
+3:status quo (against better control of executive)
+4:status quo (against more power for executive)
+5:In favour of more power for the executive
+6:neutral/ambivalent
+
+
+[1104]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more direct democratic participation of the citizens
+3:status quo (against more participation)
+4:status quo (against less direct democracy)
+5:In favour of less direct democratic participation of the citizens
+6:neutral/ambivalent
+
+
+[1105]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more mobilization, higher voter turnout
+3:status quo (against more mobilization)
+4:status quo (against less mobilization)
+5:In favour of less mobilization, less voter turnout
+6:neutral/ambivalent
+
+
+[1106]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken/not applicable
+2:In favour of independence
+3:In favour of staying united
+4:neutral/ambivalent
+
+
+[1107]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken/not applicable
+2:In favour of independence
+3:In favour of leaving the euro zone
+4:neutral/ambivalent
+
+
+[1108]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken/not applicable
+2:In favour of independence
+3:In favor of weakening the banking union
+4:neutral/ambivalent
+
+
+[1199]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of institutional reforms
+3:status quo (against institutional reforms)
+4:neutral/ambivalent
+
+
+[1200]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more infrastructural investments
+3:status quo (against more infrastructural investments)
+4:status quo (against less infrastructural investments)
+5:In favour of less infrastructural investments
+6:neutral/ambivalent
+
+
+[1201]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more public spending for private transportation infrastructure
+3:status quo (against more infrastructural investments)
+4:status quo (against less infrastructural investments)
+5:In favour of more public spending for private transportation infrastructure; In favour of financing private transport infrastructure by users
+6:neutral/ambivalent
+
+
+[1202]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more public spending for public transportation
+3:status quo (against more infrastructural investments)
+4:status quo (against less infrastructural investments)
+5:In favour of more public spending for public transportation; In favour of financing public transport by users
+6:neutral/ambivalent
+
+
+[1203]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more public spending for airports
+3:status quo (against more infrastructural investments)
+4:status quo (against less infrastructural investments)
+5:In favour of less public spending for airports
+6:neutral/ambivalent
+
+
+[1204]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of measures for a higher energy security
+3:status quo (against more infrastructural investments)
+4:status quo (against less infrastructural investments)
+5:In favour of less measures for a higher energy security/ less spending for energy security
+6:neutral/ambivalent
+
+
+[1205]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more public spending for state medias/ communication infrastructure
+3:status quo (against more infrastructural investments)
+4:status quo (against less infrastructural investments)
+5:In favour of less public spending for state medieas/communication infrastructure; In favour of private medias
+6:neutral/ambivalent
+
+
+[1206]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of measures for more infrastructural security
+3:status quo (against more infrastructural investments)
+4:status quo (against less infrastructural investments)
+5:In favour of less measures for infrastructural security / more liberal driving rules
+6:neutral/ambivalent
+
+
+[1207]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of measures for more inhabited space / liberal spatial planning
+3:status quo (against liberal spatial planning)
+4:stauts quo (against restrictive spatial planning)
+5:In favour of more restrictive spatial planning / less inhabited space.
+6:neutral/ambivalent
+
+
+[1299]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:In favour of more infrastructural investments
+3:status quo (against more infrastructural investments)
+4:status quo (against less infrastructural investments)
+5:In favour of less infrastructural investments
+6:neutral/ambivalent
+
+
+[2100]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the situation/development
+3:Neutral evaluation of the situation/development
+4:Negative evaluation of the situation/development
+
+
+[2101]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the situation/development
+3:Neutral evaluation of the situation/development
+4:Negative evaluation of the situation/development
+
+
+[2102]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the situation/development
+3:Neutral evaluation of the situation/development
+4:Negative evaluation of the situation/development
+
+
+[2103]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the situation/development
+3:Neutral evaluation of the situation/development
+4:Negative evaluation of the situation/development
+
+
+[2104]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the situation/development
+3:Neutral evaluation of the situation/development
+4:Negative evaluation of the situation/development
+
+
+[2105]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the situation/development
+3:Neutral evaluation of the situation/development
+4:Negative evaluation of the situation/development
+
+
+[2106]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the situation/development
+3:Neutral evaluation of the situation/development
+4:Negative evaluation of the situation/development
+
+
+[2199]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the situation/development
+3:Neutral evaluation of the situation/development
+4:Negative evaluation of the situation/development
+
+
+[2200]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the event
+3:Neutral evaluation of the event
+4:Negative evaluation of the event
+
+
+[2201]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the event
+3:Neutral evaluation of the event
+4:Negative evaluation of the event
+
+
+[2202]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the event
+3:Neutral evaluation of the event
+4:Negative evaluation of the event
+
+
+[2203]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the event
+3:Neutral evaluation of the event
+4:Negative evaluation of the event
+
+
+[2204]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the event
+3:Neutral evaluation of the event
+4:Negative evaluation of the event
+
+
+[2299]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of the event
+3:Neutral evaluation of the event
+4:Negative evaluation of the event
+
+
+[9998]
+Does the speaker express his/her position?
+Please indicate the explicitly named position of the speaker.
+
+1:No position taken / Not applicable
+2:Positive evaluation of society/system
+3:Neutral evaluation
+4:Negative evaluation of the society/system
+
+
